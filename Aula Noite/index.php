@@ -5,11 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aula 3</title>
+    <style>
+        h1 {
+            color: red; 
+        }
+
+        nav{
+            background-color: salmon;
+            padding: 10px;
+        }
+
+        #dadosPessoais{
+            background-color: darkblue;
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <main>
         <header>
-            <h1 style="color: blue">Aula 03</h1>
+            <h1>Aula 03</h1>
             <nav>Menu</nav>
         </header>
         
